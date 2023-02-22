@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-Please use this Credentials for testing.
+Since, we are just using mockLab for remote data. Please use this Credentials for testing.
 
 1. Login
    "email": "abc",
