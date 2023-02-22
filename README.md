@@ -1,6 +1,8 @@
 # sample_project
 
-A new Flutter project.
+## Installation
+$ pub get
+$ flutter run --no-sound-null-safety
 
 ## Getting Started
 
