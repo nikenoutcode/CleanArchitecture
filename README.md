@@ -1,7 +1,7 @@
 # sample_project
 
 ## Installation
-$ pub get
+$ pub get <br />
 $ flutter run --no-sound-null-safety
 
 ## Getting Started
